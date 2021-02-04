@@ -1,0 +1,28 @@
+body{
+    background-color: #F5F4F4;
+}
+hr{
+    border-style:dotted none none none;
+    width:8%;
+    border-color:#00303F;
+    border-width:10px;
+}
+:is(h1,h2,h3,h4,h5,h6){
+    color:#944E6C;
+}
+h1{
+    font-size:50px;
+}
+h2{
+    font-size:40px;
+}
+h4{
+    font-size:25px;
+}
+:is(p,td,li){
+    font-size:25px;
+}
+a{
+    text-decoration:none;
+    color:#944E6C;
+}
